@@ -1,0 +1,7 @@
+C:\Users\valen\source\repos\arraysTest1\arraysTest1\bin\Debug\arraysTest1.exe.config
+C:\Users\valen\source\repos\arraysTest1\arraysTest1\bin\Debug\arraysTest1.exe
+C:\Users\valen\source\repos\arraysTest1\arraysTest1\bin\Debug\arraysTest1.pdb
+C:\Users\valen\source\repos\arraysTest1\arraysTest1\obj\Debug\arraysTest1.csproj.AssemblyReference.cache
+C:\Users\valen\source\repos\arraysTest1\arraysTest1\obj\Debug\arraysTest1.csproj.CoreCompileInputs.cache
+C:\Users\valen\source\repos\arraysTest1\arraysTest1\obj\Debug\arraysTest1.exe
+C:\Users\valen\source\repos\arraysTest1\arraysTest1\obj\Debug\arraysTest1.pdb
