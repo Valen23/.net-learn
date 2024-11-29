@@ -1,0 +1,7 @@
+C:\Users\valen\source\repos\eventosDelegados\eventosDelegados\bin\Debug\eventosDelegados.exe.config
+C:\Users\valen\source\repos\eventosDelegados\eventosDelegados\bin\Debug\eventosDelegados.exe
+C:\Users\valen\source\repos\eventosDelegados\eventosDelegados\bin\Debug\eventosDelegados.pdb
+C:\Users\valen\source\repos\eventosDelegados\eventosDelegados\obj\Debug\eventosDelegados.csproj.AssemblyReference.cache
+C:\Users\valen\source\repos\eventosDelegados\eventosDelegados\obj\Debug\eventosDelegados.csproj.CoreCompileInputs.cache
+C:\Users\valen\source\repos\eventosDelegados\eventosDelegados\obj\Debug\eventosDelegados.exe
+C:\Users\valen\source\repos\eventosDelegados\eventosDelegados\obj\Debug\eventosDelegados.pdb
