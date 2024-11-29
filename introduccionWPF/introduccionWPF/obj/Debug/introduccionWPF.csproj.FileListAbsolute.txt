@@ -1,0 +1,15 @@
+C:\Users\valen\source\repos\introduccionWPF\introduccionWPF\bin\Debug\introduccionWPF.exe.config
+C:\Users\valen\source\repos\introduccionWPF\introduccionWPF\bin\Debug\introduccionWPF.exe
+C:\Users\valen\source\repos\introduccionWPF\introduccionWPF\bin\Debug\introduccionWPF.pdb
+C:\Users\valen\source\repos\introduccionWPF\introduccionWPF\obj\Debug\introduccionWPF.csproj.AssemblyReference.cache
+C:\Users\valen\source\repos\introduccionWPF\introduccionWPF\obj\Debug\MainWindow.g.cs
+C:\Users\valen\source\repos\introduccionWPF\introduccionWPF\obj\Debug\App.g.cs
+C:\Users\valen\source\repos\introduccionWPF\introduccionWPF\obj\Debug\introduccionWPF_MarkupCompile.cache
+C:\Users\valen\source\repos\introduccionWPF\introduccionWPF\obj\Debug\introduccionWPF_MarkupCompile.lref
+C:\Users\valen\source\repos\introduccionWPF\introduccionWPF\obj\Debug\MainWindow.baml
+C:\Users\valen\source\repos\introduccionWPF\introduccionWPF\obj\Debug\introduccionWPF.g.resources
+C:\Users\valen\source\repos\introduccionWPF\introduccionWPF\obj\Debug\introduccionWPF.Properties.Resources.resources
+C:\Users\valen\source\repos\introduccionWPF\introduccionWPF\obj\Debug\introduccionWPF.csproj.GenerateResource.cache
+C:\Users\valen\source\repos\introduccionWPF\introduccionWPF\obj\Debug\introduccionWPF.csproj.CoreCompileInputs.cache
+C:\Users\valen\source\repos\introduccionWPF\introduccionWPF\obj\Debug\introduccionWPF.exe
+C:\Users\valen\source\repos\introduccionWPF\introduccionWPF\obj\Debug\introduccionWPF.pdb

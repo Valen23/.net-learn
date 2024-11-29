@@ -1,0 +1,7 @@
+C:\Users\valen\source\repos\inANDoutTest\inANDoutTest\bin\Debug\inANDoutTest.exe.config
+C:\Users\valen\source\repos\inANDoutTest\inANDoutTest\bin\Debug\inANDoutTest.exe
+C:\Users\valen\source\repos\inANDoutTest\inANDoutTest\bin\Debug\inANDoutTest.pdb
+C:\Users\valen\source\repos\inANDoutTest\inANDoutTest\obj\Debug\inANDoutTest.csproj.AssemblyReference.cache
+C:\Users\valen\source\repos\inANDoutTest\inANDoutTest\obj\Debug\inANDoutTest.csproj.CoreCompileInputs.cache
+C:\Users\valen\source\repos\inANDoutTest\inANDoutTest\obj\Debug\inANDoutTest.exe
+C:\Users\valen\source\repos\inANDoutTest\inANDoutTest\obj\Debug\inANDoutTest.pdb

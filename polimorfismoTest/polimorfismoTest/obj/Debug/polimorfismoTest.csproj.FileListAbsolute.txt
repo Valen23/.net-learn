@@ -1,0 +1,7 @@
+C:\Users\valen\source\repos\polimorfismoTest\polimorfismoTest\bin\Debug\polimorfismoTest.exe.config
+C:\Users\valen\source\repos\polimorfismoTest\polimorfismoTest\bin\Debug\polimorfismoTest.exe
+C:\Users\valen\source\repos\polimorfismoTest\polimorfismoTest\bin\Debug\polimorfismoTest.pdb
+C:\Users\valen\source\repos\polimorfismoTest\polimorfismoTest\obj\Debug\polimorfismoTest.csproj.AssemblyReference.cache
+C:\Users\valen\source\repos\polimorfismoTest\polimorfismoTest\obj\Debug\polimorfismoTest.csproj.CoreCompileInputs.cache
+C:\Users\valen\source\repos\polimorfismoTest\polimorfismoTest\obj\Debug\polimorfismoTest.exe
+C:\Users\valen\source\repos\polimorfismoTest\polimorfismoTest\obj\Debug\polimorfismoTest.pdb
